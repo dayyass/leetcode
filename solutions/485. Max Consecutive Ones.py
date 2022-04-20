@@ -1,3 +1,4 @@
+# Solution 1 (when 1 more then 0)
 # Time: O(n), Space: O(1)
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
@@ -10,3 +11,17 @@ class Solution:
                 res = max(res, cur)
                 cur = 0
         return max(res, cur)
+
+# Solution 2 (when 0 more then 1)
+# Time: O(n), Space: O(1)
+class Solution:
+    def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
+        res = 0
+        cur = 0
+        for i in nums:
+            if i == 1:
+                cur += 1
+                res = max(res, cur)
+            else:
+                cur = 0
+        return res
