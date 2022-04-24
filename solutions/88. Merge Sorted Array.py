@@ -1,3 +1,4 @@
+# Solution 1: optimal
 # Time: O(m + n), Space: O(1)
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
@@ -15,6 +16,7 @@ class Solution:
             nums1[n-1] = nums2[n-1]
             n -= 1
 
+# Solution 2: sorting
 # Time: O((m+n)log(m+n)), Space: O(1)
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:

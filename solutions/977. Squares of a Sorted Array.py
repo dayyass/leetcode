@@ -1,3 +1,4 @@
+# Two pointers
 # Time: O(n), Space: O(n)
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:

@@ -1,3 +1,4 @@
+# Solution 1: straightforward
 # Time: O(n^2), Space: O(1)
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
@@ -7,6 +8,7 @@ class Solution:
                     return True
         return False
 
+# Solution 2: using hash table
 # Time: O(n), Space: O(n)
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
