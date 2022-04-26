@@ -1,5 +1,6 @@
-# Solution 1 (// 10)
+# Solution 1: // 10
 # Time: O(n), Space: O(1)
+
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
         res = 0
@@ -17,8 +18,10 @@ class Solution:
 
         return res
 
-# Solution 2 (log10)
+
+# Solution 2: log10
 # Time: O(n), Space: O(1)
+
 import math
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
@@ -34,8 +37,10 @@ class Solution:
 
         return res
 
-# Solution 3 (use constraints)
+
+# Solution 3: Use constraints
 # Time: O(n), Space: O(1)
+
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
         res = 0

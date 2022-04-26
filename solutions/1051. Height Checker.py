@@ -1,16 +1,6 @@
-# Solution 1: Sorting
-# Time: O(nlogn), Space: O(n)
-class Solution:
-    def heightChecker(self, heights: List[int]) -> int:
-        res = 0
-        expected = sorted(heights)
-        for i in range(len(heights)):
-            if heights[i] != expected[i]:
-                res += 1
-        return res
-
-# Solution 2: Counting sort
+# Solution 1 (optimal): Counting Sort
 # Time: O(n), Space: O(n)
+
 class Solution:
     def heightChecker(self, heights: List[int]) -> int:
         # <counting sort>
@@ -26,4 +16,17 @@ class Solution:
             if h != exp_h:
                 res += 1
             height2freq[exp_h] -= 1
+        return res
+        
+
+# Solution 2: Sorting
+# Time: O(nlogn), Space: O(n)
+
+class Solution:
+    def heightChecker(self, heights: List[int]) -> int:
+        res = 0
+        expected = sorted(heights)
+        for i in range(len(heights)):
+            if heights[i] != expected[i]:
+                res += 1
         return res

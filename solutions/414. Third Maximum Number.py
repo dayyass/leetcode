@@ -1,4 +1,5 @@
 # Time: O(n), Space: O(1)
+
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
         max1, max2, max3 = None, None, None

@@ -1,5 +1,6 @@
-# One pointer
+# Solution 1 (optimal): One Pointer
 # Time: O(n), Space: O(1)
+
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:
         i, n = 0, len(arr)
@@ -11,8 +12,10 @@ class Solution:
             i += 1
         return i == n - 1
 
-# Two pointers
+
+# Solution 2 (optimal): Two Pointers
 # Time: O(n), Space: O(1)
+
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:
         n = len(arr)

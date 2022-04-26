@@ -1,4 +1,5 @@
 # Time: O(n), Space: O(1)
+
 class Solution:
     def replaceElements(self, arr: List[int]) -> List[int]:
         max_val = -1

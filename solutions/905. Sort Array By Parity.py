@@ -1,5 +1,6 @@
-# Two pointers
+# Two Pointers
 # Time: O(n), Space: O(1)
+
 class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
         slow = 0

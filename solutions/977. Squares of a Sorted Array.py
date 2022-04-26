@@ -1,5 +1,6 @@
-# Two pointers
+# Solution 1 (optimal): Two Pointers
 # Time: O(n), Space: O(n)
+
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
         res = [0] * len(nums)
@@ -13,8 +14,11 @@ class Solution:
                 r -= 1
         return res
 
+
+# Solution 2: Sorting
 # Time: O(nlogn), Space: O(1)
 # Python sorted() solution is O(N) not O(NlogN): https://leetcode.com/problems/squares-of-a-sorted-array/discuss/233054/Python-sorted()-solution-is-O(N)-not-O(NlogN)
+
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
         for i in range(len(nums)):

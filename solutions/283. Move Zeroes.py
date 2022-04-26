@@ -1,5 +1,6 @@
-# Two pointers
+# Two Pointers
 # Time: O(n), Space: O(1)
+
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         """
