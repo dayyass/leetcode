@@ -3,6 +3,7 @@
 | # | Title | Solution | Difficulty | Data Structure |
 | - | ----- | -------- | ---------- | -------------- |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py) | Medium | Linked List |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](solutions/21.%20Merge%20Two%20Sorted%20Lists.py) | Easy | Linked List |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy | Array |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](solutions/27.%20Remove%20Element.py) | Easy | Array |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](solutions/88.%20Merge%20Sorted%20Array.py) | Easy | Array |
@@ -11,7 +12,9 @@
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.py) | Easy | Linked List |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](solutions/203.%20Remove%20Linked%20List%20Elements.py) | Easy | Linked List |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](solutions/206.%20Reverse%20Linked%20List.py) | Easy | Linked List |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](solutions/234.%20Palindrome%20Linked%20List.py) | Easy | Linked List |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](solutions/283.%20Move%20Zeroes.py) | Easy | Array |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](solutions/328.%20Odd%20Even%20Linked%20List.py) | Medium | Linked List |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](solutions/414.%20Third%20Maximum%20Number.py) | Easy | Array |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Easy | Array |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](solutions/485.%20Max%20Consecutive%20Ones.py) | Easy | Array |

@@ -78,3 +78,7 @@ class MyLinkedList(object):
             curr.next = curr.next.next
         
         self.size -= 1
+
+
+# TODO:
+# Doubly linked list
