@@ -9,9 +9,14 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](solutions/27.%20Remove%20Element.py) | Easy | Array |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Python | Medium | Linked List |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](solutions/88.%20Merge%20Sorted%20Array.py) | Easy | Array |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](solutions/94.%20Binary%20Tree%20Inorder%20Traversal.py) | Easy | Binary Tree |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.py) | Medium | Binary Tree |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | Easy | Binary Tree |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Python | Medium | Linked List |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](solutions/141.%20Linked%20List%20Cycle.py) | Easy | Linked List |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](solutions/142.%20Linked%20List%20Cycle%20II.py) | Medium | Linked List |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](solutions/144.%20Binary%20Tree%20Preorder%20Traversal.py) | Easy | Binary Tree |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](solutions/145.%20Binary%20Tree%20Postorder%20Traversal.py) | Easy | Binary Tree |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.py) | Easy | Linked List |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](solutions/203.%20Remove%20Linked%20List%20Elements.py) | Easy | Linked List |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](solutions/206.%20Reverse%20Linked%20List.py) | Easy | Linked List |
