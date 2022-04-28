@@ -9,6 +9,7 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](solutions/27.%20Remove%20Element.py) | Easy | Array |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](solutions/88.%20Merge%20Sorted%20Array.py) | Easy | Array |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](solutions/94.%20Binary%20Tree%20Inorder%20Traversal.py) | Easy | Binary Tree |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](solutions/101.%20Symmetric%20Tree.py) | Easy | Binary Tree |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.py) | Medium | Binary Tree |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | Easy | Binary Tree |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](solutions/141.%20Linked%20List%20Cycle.py) | Easy | Linked List |
